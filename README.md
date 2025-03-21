@@ -18,19 +18,6 @@
   <a href="https://github.com/GenAIPHBuilders-org/stargazers">
     <img src="https://img.shields.io/github/stars/GenAIPHBuilders-org?style=social" alt="GitHub Stars">
   </a>&nbsp;
-  <a href="https://github.com/GenAIPHBuilders-org/network/members">
-    <img src="https://img.shields.io/github/forks/GenAIPHBuilders-org?style=social" alt="GitHub Forks">
-  </a>&nbsp;
-  <a href="https://github.com/GenAIPHBuilders-org/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/GenAIPHBuilders-org" alt="GitHub Contributors">
-  </a>&nbsp;
-  <a href="https://github.com/GenAIPHBuilders-org?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/GenAIPHBuilders-org?style=social" alt="GitHub Repositories">
-  </a>&nbsp;
-  <a href="https://github.com/GenAIPHBuilders-org">
-    <img src="https://img.shields.io/github/languages/count/GenAIPHBuilders-org?style=social" alt="GitHub Languages">
-  </a>
-
   <br/>
 
   <a href="./CODE_OF_CONDUCT.md">🤝 Code of Conduct</a> • 
