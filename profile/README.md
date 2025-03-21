@@ -2,8 +2,6 @@
 
   <h1>Gen AI Builders PH 🚀</h1>
 
-  <img src="470562565_122170744520255386_8708403639765952558_n.jpg" alt="Gen AI PH Banner" width="500" />
-
   <br/>
 
   <a href="https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true">
