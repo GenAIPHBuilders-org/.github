@@ -1,41 +1,67 @@
-# Gen AI Philippines 🇵🇭
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gen_AI_Philippines-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true)
-[![GitHub](https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github)](https://github.com/GenAIPHBuilders-org)
-<!-- GitHub Organization Stats -->
-![GitHub Contributors](https://img.shields.io/github/contributors/GenAIPHBuilders-org?style=social)
-![GitHub Repositories](https://img.shields.io/github/repo-count/GenAIPHBuilders-org?style=social)
-![GitHub Languages](https://img.shields.io/github/languages/count/GenAIPHBuilders-org?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/GenAIPHBuilders-org?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/GenAIPHBuilders-org?style=social)
+  <h1> Gen AI Builders PH 🚀</h1>
+
+  <img src="https://github.com/GenAIPHBuilders-org/.github/blob/main/banner.jpg" alt="Gen AI Builders PH Banner" width="500" />
+
+  <br/>
+
+  <a href="https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Gen_AI_Philippines-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="https://github.com/GenAIPHBuilders-org">
+    <img src="https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github" alt="GitHub">
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/GenAIPHBuilders-org/stargazers">
+    <img src="https://img.shields.io/github/stars/GenAIPHBuilders-org?style=social" alt="GitHub Stars">
+  </a>&nbsp;
+  <a href="https://github.com/GenAIPHBuilders-org/network/members">
+    <img src="https://img.shields.io/github/forks/GenAIPHBuilders-org?style=social" alt="GitHub Forks">
+  </a>&nbsp;
+  <a href="https://github.com/GenAIPHBuilders-org/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/GenAIPHBuilders-org" alt="GitHub Contributors">
+  </a>&nbsp;
+  <a href="https://github.com/GenAIPHBuilders-org">
+    <img src="https://img.shields.io/github/repo-count/GenAIPHBuilders-org?style=social" alt="GitHub Repositories">
+  </a>&nbsp;
+  <a href="https://github.com/GenAIPHBuilders-org">
+    <img src="https://img.shields.io/github/languages/count/GenAIPHBuilders-org?style=social" alt="GitHub Languages">
+  </a>
+
+  <br/>
+
+  <a href="./CODE_OF_CONDUCT.md">🤝 Code of Conduct</a> • 
+  <a href="./WELCOME.md">👋 Welcome Guide</a>
+
+</div>
 
 ## 🧠 About Us
-Gen AI Philippines is dedicated to **empowering Filipinos** by **demystifying Generative AI** and addressing both technical and non-technical challenges. Our mission is to foster a **collaborative and inclusive** AI community that promotes innovation, ethical AI practices, and responsible AI usage.
+Gen AI Builders PH is a community-driven initiative dedicated to **empowering Filipinos** in Generative AI. We focus on **education, innovation, and ethical AI development**, fostering a **collaborative and inclusive** environment.
 
-We focus on:
-- **Education & Advocacy** – Providing AI literacy and awareness through workshops, talks, and resources.
-- **Innovation & Development** – Encouraging builders to create AI-powered applications with real-world impact.
-- **Ethical AI Practices** – Addressing misinformation, copyright concerns, and responsible AI use.
+We aim to:
+- **Educate & Advocate** – AI literacy through workshops, talks, and research.
+- **Build & Innovate** – Encourage AI-driven applications with real-world impact.
+- **Promote Responsible AI** – Address misinformation, copyright, and ethical AI use.
 
 ## 🚀 Get Involved
 ### 💡 How to Contribute
-- **Submit proposals & ideas** – Share your thoughts in our [OpenGuild Discussions](#) 💬
-- **View & join activities** – Check out our [Community Activities](#) 🖐️
-- **Help grow the community** – Invite fellow AI enthusiasts and contribute to meaningful discussions.
-- **Join workshops & events** – Participate in our AI workshops and learning sessions.
-- **Propose project ideas** – Bring your AI ideas to life and collaborate with like-minded individuals.
-- **Contribute to AI tools** – Help enhance AI tools by contributing code, reporting bugs, or suggesting features.
-
-
-## 📌 Community Guidelines
-To ensure a **safe, inclusive, and collaborative** environment, please follow our:
-- [🤝 Code of Conduct](./CODE_OF_CONDUCT.md)
-- [👋 Welcome Guide](./WELCOME.md)
+- **Share Ideas & Proposals** – [Open Discussions](#)
+- **Join Community Activities** – [Events & Hackathons](#)
+- **Expand the Community** – Invite AI enthusiasts & foster discussions.
+- **Collaborate on AI Tools** – Contribute code, report bugs, or suggest features.
+- **Propose AI Projects** – Bring your AI ideas to life!
 
 ## ⭐ Stay Connected
-- **LinkedIn:** [Gen AI Philippines](https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true)
-- **GitHub:** [GenAIPHBuilders](https://github.com/GenAIPHBuilders-org)
-- **Facebook:** [Gen AI Community](https://www.facebook.com/genaicom)
-- **YouTube:** [Gen AI Philippines](https://www.youtube.com/@GenAIPhilippines)
+<div align="center">
 
-Join us and **be part of the AI revolution in the Philippines!** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gen_AI_Philippines-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true)
+[![GitHub](https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github)](https://github.com/GenAIPHBuilders-org)
+[![Facebook](https://img.shields.io/badge/Facebook-Gen_AI_Community-blue?style=flat-square&logo=facebook)](https://www.facebook.com/genaicom)
+[![YouTube](https://img.shields.io/badge/YouTube-Gen_AI_Philippines-red?style=flat-square&logo=youtube)](https://www.youtube.com/@GenAIPhilippines)
+
+</div>
+
+Join **Gen AI Builders PH** and be part of the **AI revolution in the Philippines!** 🚀
