@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1> Gen AI Builders PH 🚀</h1>
+  <h1>Gen AI Builders PH 🚀</h1>
 
-  <img src="https://github.com/GenAIPHBuilders-org/.github/blob/main/banner.jpg" alt="Gen AI Builders PH Banner" width="500" />
+  <img src="470562565_122170744520255386_8708403639765952558_n.jpg" alt="Gen AI PH Banner" width="500" />
 
   <br/>
 
@@ -24,7 +24,7 @@
   <a href="https://github.com/GenAIPHBuilders-org/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/GenAIPHBuilders-org" alt="GitHub Contributors">
   </a>&nbsp;
-  <a href="https://github.com/GenAIPHBuilders-org">
+  <a href="https://github.com/GenAIPHBuilders-org?tab=repositories">
     <img src="https://img.shields.io/github/repo-count/GenAIPHBuilders-org?style=social" alt="GitHub Repositories">
   </a>&nbsp;
   <a href="https://github.com/GenAIPHBuilders-org">
@@ -48,8 +48,8 @@ We aim to:
 
 ## 🚀 Get Involved
 ### 💡 How to Contribute
-- **Share Ideas & Proposals** – [Open Discussions](#)
-- **Join Community Activities** – [Events & Hackathons](#)
+- **Share Ideas & Proposals** 
+- **Join Community Activities** 
 - **Expand the Community** – Invite AI enthusiasts & foster discussions.
 - **Collaborate on AI Tools** – Contribute code, report bugs, or suggest features.
 - **Propose AI Projects** – Bring your AI ideas to life!
